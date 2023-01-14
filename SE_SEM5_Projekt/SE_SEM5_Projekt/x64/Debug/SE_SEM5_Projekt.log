@@ -1,0 +1,3 @@
+﻿  socketTCP.cpp
+C:\Users\ismae\OneDrive\HF\Sem. 5\SoftwareEntwicklung\SES5_Projekt\SE_SEM5_Projekt\SE_SEM5_Projekt\socketTCP.cpp(103,5): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  SE_SEM5_Projekt.vcxproj -> C:\Users\ismae\OneDrive\HF\Sem. 5\SoftwareEntwicklung\SES5_Projekt\SE_SEM5_Projekt\x64\Debug\SE_SEM5_Projekt.exe
