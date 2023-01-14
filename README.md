@@ -35,9 +35,9 @@ This project is designed to controll a stepper motor which provides a simple web
 
 ## Authors
 
-[Stefan Waskow](a href="stefan.waskow@bbz-sh.ch")
-[Matthias Hättich](a href="matthias.haettich@bbz-sh.ch")
-[Ismael Paganini](a href="ismael.paganini@bbz-sh.ch")
+[Stefan Waskow](mailto:stefan.waskow@bbz-sh.ch)
+[Matthias Hättich](mailto:matthias.haettich@bbz-sh.ch)
+[Ismael Paganini](mailto:ismael.paganini@bbz-sh.ch)
 
 ## Version History
 
